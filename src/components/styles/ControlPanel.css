@@ -1,0 +1,18 @@
+.controlPanel {
+   background-color: #11192E;
+   border: 2px solid #00E5E5;
+   border-radius: 20px;
+   overflow: hidden;
+  
+   grid-column: 6/17;
+   grid-row: 3/9;
+  
+   margin-right: 1em;
+   margin-bottom: 1em;
+}
+
+.control-ButtonContainer {
+  background-color: #0D214C;
+  width: 15%;
+  height: 100%
+}

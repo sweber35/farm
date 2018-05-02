@@ -1,0 +1,11 @@
+.accountList {
+   background-color: #11192E;
+   border: 2px solid #00E5E5;
+   border-radius: 20px;
+   overflow: hidden;
+   grid-column: 1/6;
+   grid-row: 3/9;
+  
+   margin-left: 1em;
+   margin-bottom: 1em;
+}

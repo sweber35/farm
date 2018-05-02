@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('OpenSans'),
+       url('./fonts/OpenSans-Semibold-webfont.ttf') format('truetype')
+}
+
+html, body, #container, #app {
+    margin: 0;
+    height: 100%;
+    font-family: 'Open Sans';
+}
+
